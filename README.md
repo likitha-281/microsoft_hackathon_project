@@ -2,13 +2,7 @@
 
 ### "The AI SRE Agent That Learns From Every Incident"
 **Failure-Aware Organizational Memory for Production Incident Response & Reliability Engineering**
-
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-18.2-61DAFB.svg)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.2-3178C6.svg)](https://www.typescriptlang.org)
-[![Hindsight Memory](https://img.shields.io/badge/Memory-Hindsight-8B5CF6.svg)](https://github.com/vectorize-io/hindsight)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**Built with:** Python 3.12 (FastAPI, SQLAlchemy) &bull; React 18 (TypeScript, Vite, Tailwind CSS) &bull; Hindsight Memory Engine &bull; SQLite / PostgreSQL
 
 ---
 
